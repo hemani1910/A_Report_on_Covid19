@@ -1,1 +1,4 @@
 # A_Report_on_Covid19
+This report on COVID-19, generated in 2020, provides an in-depth analysis of the pandemic using various data visualization techniques such as line charts, bar graphs, box plots, and pie charts. The report not only highlights the trends and patterns observed during COVID-19 but also demonstrates data manipulation techniques, including the insertion and deletion of columns. 
+
+Additionally, the report includes real-time data from Excel sheets generated after patients tested positive, maintaining records for 100 individuals. This detailed dataset enhances the analysis, offering a comprehensive overview of the impact and progression of COVID-19 with real-time updates and patient-specific data. The visualizations effectively illustrate key metrics and insights, making the report an essential resource for understanding the pandemic.
